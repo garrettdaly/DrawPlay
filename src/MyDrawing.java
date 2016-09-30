@@ -21,7 +21,7 @@ public class MyDrawing extends JPanel {
 	
 	/**
 	 * @param args
-	 */
+
 	public static void main(String[] args) {
 		JFrame frame = new JFrame();
 		// Create a JPanel (MyDrawing), we'll draw on this
